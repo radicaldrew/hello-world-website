@@ -1,0 +1,10 @@
+.welcome {
+  font-family: "Freehand", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 78px;
+}
+
+.welcome img { 
+ width: 155px;
+} 
